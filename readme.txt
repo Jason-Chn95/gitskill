@@ -1,1 +1,2 @@
-create a branhsdasdasd
+create a branch
+Creating a new branch is quick AND simple.
